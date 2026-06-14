@@ -204,5 +204,3 @@ This technique is called **DNS Tunneling**.
 - Port: UDP 53 (queries), TCP 53 (zone transfers)
 
 ---
-
-*← [SMB](03-smb.md) | Back to [README](../../README.md) | Next: [LDAP →](05-ldap.md)*
