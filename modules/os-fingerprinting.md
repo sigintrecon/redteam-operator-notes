@@ -179,5 +179,3 @@ Wrong exploits tried → Attack fails
 - Tool: `nmap -O` or `nmap -A` for comprehensive fingerprinting
 
 ---
-
-*← [NFS/RPC](06-nfs-rpc.md) | Back to [README](../../README.md) | Next Module: [AD Fundamentals →](../02-active-directory/01-ad-fundamentals.md)*
