@@ -100,12 +100,12 @@ PHASE 4 — RED TEAM OPS (Coming Soon)
 
 | # | Topic | Real-World Relevance | File |
 |---|-------|---------------------|------|
-| 01 | NetBIOS | LLMNR Poisoning, Hash Capture | [netbios.md](modules/01-network-enumeration/01-netbios.md) |
-| 02 | SNMP | Network Device Recon, Config Dump | [snmp.md](modules/01-network-enumeration/02-snmp.md) |
-| 03 | SMB | Lateral Movement, Share Enumeration | [smb.md](modules/01-network-enumeration/03-smb.md) |
-| 04 | DNS Zone Transfer | Subdomain Discovery, Recon | [dns-zone-transfer.md](modules/01-network-enumeration/04-dns-zone-transfer.md) |
-| 05 | LDAP | AD Enumeration, User Harvesting | [ldap.md](modules/01-network-enumeration/05-ldap.md) |
-| 06 | NFS/RPC | File System Access, Info Disclosure | [nfs-rpc.md](modules/01-network-enumeration/06-nfs-rpc.md) |
+| 01 | NetBIOS | LLMNR Poisoning, Hash Capture | [netbios.md](https://github.com/sigintrecon/ethical-hacking-notes/blob/main/modules/netbios.md) |
+| 02 | SNMP | Network Device Recon, Config Dump | [snmp.md](https://github.com/sigintrecon/ethical-hacking-notes/blob/main/modules/snmp.md) |
+| 03 | SMB | Lateral Movement, Share Enumeration | [smb.md](https://github.com/sigintrecon/ethical-hacking-notes/blob/main/modules/smb.md) |
+| 04 | DNS Zone Transfer | Subdomain Discovery, Recon | [dns-zone-transfer.md](https://github.com/sigintrecon/ethical-hacking-notes/blob/main/modules/dns-zone-transfer.md) |
+| 05 | LDAP | AD Enumeration, User Harvesting | [ldap.md](https://github.com/sigintrecon/ethical-hacking-notes/blob/main/modules/ldap.md) |
+| 06 | NFS/RPC | File System Access, Info Disclosure | [nfs-rpc.md](https://github.com/sigintrecon/ethical-hacking-notes/blob/main/modules/nfs-rpc.md) |
 | 07 | OS Fingerprinting | Target Profiling, Exploit Selection | [os-fingerprinting.md](https://github.com/sigintrecon/ethical-hacking-notes/blob/main/modules/os-fingerprinting.md) |
 
 ### Module 2 — Active Directory
