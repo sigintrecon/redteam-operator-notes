@@ -2,11 +2,11 @@
 
 > **Module:** Network Enumeration
 > **Difficulty:** Beginner
-> **RTO Relevance:** 🔴 High — LLMNR/NBT-NS Poisoning is one of the most common internal network attacks
+> **RTO Relevance:** High — LLMNR/NBT-NS Poisoning is one of the most common internal network attacks
 
 ---
 
-## 📌 What is NetBIOS?
+## What is NetBIOS?
 
 NetBIOS is a legacy communication protocol that allows computers on a **Local Area Network (LAN)** to communicate with each other using **names instead of IP addresses**.
 
@@ -16,7 +16,7 @@ Think of it like a phone directory — instead of remembering someone's phone nu
 
 ---
 
-## 🏗️ How NetBIOS Works — 3 Services
+## How NetBIOS Works — 3 Services
 
 NetBIOS operates through three distinct services:
 
@@ -43,7 +43,7 @@ This is what SMB uses to transfer files over NetBIOS.
 
 ---
 
-## 🔌 Important Ports
+## Important Ports
 
 | Port | Protocol | Service |
 |------|----------|---------|
@@ -53,7 +53,7 @@ This is what SMB uses to transfer files over NetBIOS.
 
 ---
 
-## 🔴 Red Team Perspective
+## Red Team Perspective
 
 ### The Critical Weakness — LLMNR/NBT-NS Poisoning
 
@@ -98,7 +98,7 @@ Use hash directly without cracking
 
 ---
 
-## 🛡️ Defense Perspective
+## Defense Perspective
 
 | Defense | How It Helps |
 |---------|-------------|
@@ -109,7 +109,7 @@ Use hash directly without cracking
 
 ---
 
-## 📝 Key Takeaways
+## Key Takeaways
 
 - NetBIOS = Legacy LAN name resolution protocol
 - 3 services: Name (137), Datagram (138), Session (139)
