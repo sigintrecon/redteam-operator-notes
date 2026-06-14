@@ -163,5 +163,3 @@ By default, NFS maps the `root` user from a client to an anonymous user (root sq
 - `no_root_squash` = critical NFS misconfiguration → privilege escalation
 
 ---
-
-*← [LDAP](05-ldap.md) | Back to [README](../../README.md) | Next: [OS Fingerprinting →](07-os-fingerprinting.md)*
