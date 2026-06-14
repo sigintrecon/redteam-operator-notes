@@ -118,5 +118,3 @@ Use hash directly without cracking
 - Tool: **Responder** — captures NTLMv2 hashes passively
 
 ---
-
-*← Back to [README](../../README.md) | Next: [SNMP →](02-snmp.md)*
