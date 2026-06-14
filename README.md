@@ -1,4 +1,4 @@
-# Ethical Hacking & Red Team Notes
+# Red Team Operator (RTO) Playbook & Notes
 
 > **A structured, beginner-to-advanced knowledge base for aspiring Red Team Operators and Penetration Testers — built from real-world concepts, not just theory.**
 
