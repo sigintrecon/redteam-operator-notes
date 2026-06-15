@@ -112,11 +112,11 @@ PHASE 4 — RED TEAM OPS (Coming Soon)
 
 | # | Topic | Real-World Relevance | File |
 |---|-------|---------------------|------|
-| 01 | AD Fundamentals | Forest, Tree, Domain, OUs, GPOs | [ad-fundamentals.md](modules/02-active-directory/01-ad-fundamentals.md) |
-| 02 | AD Authentication | NTLM, Kerberos, Ticket Attacks | [ad-authentication.md](modules/02-active-directory/02-ad-authentication.md) |
-| 03 | Users, Groups & ACLs | Privilege Levels, ACL Abuse | [ad-users-groups.md](modules/02-active-directory/03-ad-users-groups.md) |
-| 04 | NTDS.dit | Crown Jewel, DCSync, Dumping | [ntds-dit.md](modules/02-active-directory/04-ntds-dit.md) |
-| 05 | AD Attack Paths | Full Attack Chain, RTO Mindset | [ad-attack-paths.md](modules/02-active-directory/05-ad-attack-paths.md) |
+| 01 | AD Fundamentals | Forest, Tree, Domain, OUs, GPOs | [ad-fundamentals.md](https://github.com/sigintrecon/redteam-operator-notes/blob/main/AD/ad-fundamentals.md) |
+| 02 | AD Authentication | NTLM, Kerberos, Ticket Attacks | [ad-authentication.md](https://github.com/sigintrecon/redteam-operator-notes/blob/main/AD/ad-authentication.md) |
+| 03 | Users, Groups & ACLs | Privilege Levels, ACL Abuse | [ad-users-groups.md](https://github.com/sigintrecon/redteam-operator-notes/blob/main/AD/ad-users-groups.md) |
+| 04 | NTDS.dit | Crown Jewel, DCSync, Dumping | [ntds-dit.md](https://github.com/sigintrecon/redteam-operator-notes/blob/main/AD/ntds-dit.md) |
+| 05 | AD Attack Paths | Full Attack Chain, RTO Mindset | [ad-attack-paths.md](https://github.com/sigintrecon/redteam-operator-notes/blob/main/AD/ad-attack-paths.md) |
 
 ---
 
